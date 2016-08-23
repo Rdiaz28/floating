@@ -1,1 +1,22 @@
-/* Pon tu código css aqui */
+.contenedor {
+background-color: white;
+border: 1px solid gray;
+
+}
+
+.caja{
+	width: 25%;
+	height: 100px;
+}
+
+.amarillo{
+	background-color: #ffff00;
+}
+
+.azul{
+	background-color: #3a81ba;
+}
+
+.rosado{
+	background-color: #ed2251;
+}
